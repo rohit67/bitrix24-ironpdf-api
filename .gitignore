@@ -1,0 +1,15 @@
+bin/
+obj/
+
+.vscode/
+.idea/
+
+.DS_Store
+
+appsettings.json
+
+GeneratedPDFs/
+
+publish/
+
+.env
